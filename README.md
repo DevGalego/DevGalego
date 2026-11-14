@@ -65,13 +65,14 @@ Acredito na evolução constante por meio dos estudos, da prática e do desenvol
 - [ ] 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevGalego&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=DevGalego&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGalego&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DevGalego&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
 
 
