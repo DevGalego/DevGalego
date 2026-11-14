@@ -63,7 +63,7 @@ Acredito na evolução constante por meio dos estudos, da prática e do desenvol
 - [ ] Construir um portfólio de projetos.
 - [ ] Conquistar minha primeira oportunidade como desenvolvedor.
 - [ ] 
-## 📊 GitHub Analytics
+
 
 ## 📊 GitHub Analytics
 
